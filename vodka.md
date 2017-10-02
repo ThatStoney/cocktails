@@ -31,3 +31,9 @@
 * Stir well. If you feel like doing a fun mixing technique, try rolling this one.
 * Adjust the seasonings to taste.
 * Garnish with a lemon and celery or pickle.
+
+### The Stone
+* 2 oz Grey Goose
+
+---
+* Serve with ice
