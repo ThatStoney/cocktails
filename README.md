@@ -8,6 +8,7 @@ This repository is a place for me to store cocktail recipes that I use and/or cr
 * [Cognac](cognac.md)
 * [Gin](gin.md)
 * [Rum](rum.md)
+* [Vodka](vodka.md)
 * [Whiskey](whiskey.md)
 
 Pull Requests are welcome!
