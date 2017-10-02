@@ -43,3 +43,10 @@
 * Stir ingredients with ice.
 * Serve in rinsed glass with one large ice cube.
 * Garnish with large orange peel.
+
+### The Mine
+* 12 oz Kessler
+* 12 oz Sprite Zero
+
+---
+* Stir with ice.
