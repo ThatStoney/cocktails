@@ -59,5 +59,17 @@
 * Fill a shaker with ice cubes. 
 * Add all ingredients.
 * Shake and strain into a shot glass. 
-*Garnish with lime.
+* Garnish with lime.
 
+### Sex On The Beach
+* ¾ Part Vodka
+* 3⅓ Parts Light Orange Juice
+* 3⅓ Parts Cranberry Juice
+* ¾ Part Peach Schnapps
+* 1 Wheel Lime
+* 1 Whole Cherry
+
+---
+* Fill a highball glass with ice cubes. 
+* Add all ingredients. 
+* Garnish with lime and a cherry.
