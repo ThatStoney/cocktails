@@ -38,7 +38,6 @@
 ---
 * Serve over ice
 
----
 
 ### Vodka Cranberry
 * 1½ Parts  Vodka
