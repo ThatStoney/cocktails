@@ -45,4 +45,19 @@
 * 1 Wedge Lime
 
 ---
-* Fill a highball glass with ice cubes. Add all ingredients. Garnish with lime.
+* Fill a highball glass with ice cubes. 
+* Add all ingredients. 
+* Garnish with lime.
+
+### Kamikaze
+* 1 Part Vodka
+* ½ Part Triple Sec
+* ½ Part Lemon Juice
+* 1 Wedge Lime
+
+---
+* Fill a shaker with ice cubes. 
+* Add all ingredients.
+* Shake and strain into a shot glass. 
+*Garnish with lime.
+
