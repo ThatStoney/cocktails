@@ -34,4 +34,16 @@
 
 ### The Stone
 * 8 oz Tito's Vodka
-* Serve with ice
+
+---
+* Serve over ice
+
+---
+
+### Vodka Cranberry
+* 1½ Parts  Vodka
+* 5 Parts Cranberry Juice
+* 1 Wedge Lime
+
+---
+* Fill a highball glass with ice cubes. Add all ingredients. Garnish with lime.
