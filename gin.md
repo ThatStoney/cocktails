@@ -74,14 +74,3 @@
 * Strain into a martini glass
 * Garnish with a maraschino cherry
 
-### Classic Gin & Tonic
-
-* 2 oz gin
-* 4 oz tonic water
-* Lime wedge
-
----
-* Pour the gin into a highball glass filled with ice cubes
-* Add the tonic
-* Stir well
-* Garnish with a lime wedge
