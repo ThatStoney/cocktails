@@ -74,4 +74,3 @@
 * Strain into a martini glass
 * Garnish with a maraschino cherry
 
-
