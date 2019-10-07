@@ -32,7 +32,7 @@
 * Adjust the seasonings to taste.
 * Garnish with a lemon and celery or pickle.
 
-### The Stone
+### The Stoney
 * 8 oz Tito's Vodka
 
 ---
