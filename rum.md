@@ -46,3 +46,16 @@
 * Chill mixture for at least 30 minutes.
 * Place 1/2 c. of batter in the bottom of each mug. Add 3/4 ounce of each liquor to each mug, then fill with boiling water.
 * Top each mug with a spoonful of batter, then garnish with freshly-ground nutmeg and cinnamon.
+
+
+### Piña Colada
+* 2 oz white rum
+* 2 oz coconut cream
+* 2 oz pineapple juice
+
+---
+* Combine all ingredients in shaker tin
+* Add ice to small shaker tin
+* Shake vigorously, until tin is frosted over
+* Strain into chilled hurricane glass filled with crushed ice
+* Garnish with pineapple leaf and enjoy
