@@ -32,13 +32,6 @@
 * Adjust the seasonings to taste.
 * Garnish with a lemon and celery or pickle.
 
-### The Stoney
-* 8 oz Tito's Vodka
-
----
-* Serve over ice
-
-
 ### Vodka Cranberry
 * 1½ Parts  Vodka
 * 5 Parts Cranberry Juice
