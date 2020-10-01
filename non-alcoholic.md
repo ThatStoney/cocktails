@@ -10,4 +10,4 @@
 * 1 oz angst
 * Dash of irony
 
-Serve over frozen resentment
+Serve over frozen resentment. Garnish with a wedge of annoyance. 
