@@ -1,4 +1,4 @@
-## Misc drinks
+## Non-alcoholic drinks
 
 ### Teetotaler
 * 4 oz purified water
