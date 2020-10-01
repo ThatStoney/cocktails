@@ -10,6 +10,6 @@ This repository is a place for me to store cocktail recipes that I use and/or cr
 * [Rum](rum.md)
 * [Vodka](vodka.md)
 * [Whiskey](whiskey.md)
-* [Misc](misc.md)
+* [Non-Alcoholic](non-alcoholic.md)
 
 Pull Requests are welcome!
